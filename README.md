@@ -1,6 +1,6 @@
 # Group_4
 The codes are all in the code folder. 
-By running the code/main.py, you can situmate the BAN-PICK process. 
+By running the code/main.py, you can situmate the BAN-PICK process and then you can get two teams winning rate. 
 You should obey the Program prompt and input a hero name or a number to excute the program.
 This is a probable input:
 0
